@@ -8,18 +8,11 @@
       "id": 1
     },
     {
-      "message": "another problem",
-      "attention": true,
+      "id": 2,
+      "message": "problem fixed",
+      "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-12-07T20:43:31.272Z",
-      "id": 2
-    },
-    {
-      "message": "another wifi is broken",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-12-07T21:14:52.967Z",
-      "id": 3
+      "date": "2020-12-07T22:56:41.553Z"
     }
   ],
   "techs": [

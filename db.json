@@ -15,18 +15,11 @@
       "id": 2
     },
     {
-      "message": "502 station wire is broken",
+      "message": "another wifi is broken",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2020-12-07T20:48:10.719Z",
+      "date": "2020-12-07T21:14:52.967Z",
       "id": 3
-    },
-    {
-      "message": "test",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-12-07T20:49:27.019Z",
-      "id": 4
     }
   ],
   "techs": [

@@ -20,6 +20,20 @@
       "tech": "Sam Smith",
       "date": "2020-12-07T23:24:16.560Z",
       "id": 3
+    },
+    {
+      "message": "123",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-12-08T19:34:09.590Z",
+      "id": 4
+    },
+    {
+      "message": "test",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-12-08T19:39:16.659Z",
+      "id": 5
     }
   ],
   "techs": [
@@ -32,11 +46,6 @@
       "id": 2,
       "firstName": "Sam",
       "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
     }
   ]
 }
